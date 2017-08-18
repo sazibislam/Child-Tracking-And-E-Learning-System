@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Child Tracking And E-Learning</string>
+    <string name="toolbar_name">Child Tracking And E-Learning</string>
+    <string name="text_of_alphabet">অক্ষর</string>
+    <string name="text_of_math">অংক শিখি</string>
+    <string name="text_of_picture">LEARN BY IMAGES</string>
+
+    <string name="text_of_pic_textview">শুরু করতে যে কোন বাটনে চাপ দাও।</string>
+    <string name="text_of_pic_textview_score">তোমার স্কোর :</string>
+    <string name="text_of_pic_textview_score_show">০</string>
+
+    <string name="text_of_next">সামনে</string>
+    <string name="text_of_home">শুরু</string>
+    <string name="text_of_back">পিছনে</string>
+    <string name="text_of_32">৩২</string>
+    <string name="text_of_29">২৯</string>
+    <string name="text_of_30">৩০</string>
+    <string name="text_view_problem">১৫*২*১-১</string>
+    <string name="Score_1">ফলাফল : 1</string>
+
+    <!--For alphabet -->
+    <string-array name="titles">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Twitter</item>
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Twitter</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="description">
+        <item>Facebook Description </item>
+        <item>Instagram Description</item>
+        <item>Twitter Descrption</item>
+        <item>Google Description</item>
+        <item>Facebook Description </item>
+        <item>Instagram Description</item>
+        <item>Twitter Descrption</item>
+        <item>Google Description</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
